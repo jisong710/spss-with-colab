@@ -15,7 +15,7 @@ import statistics as st
 import scipy
 from scipy.stats import iqr
 
-url="https://raw.githubusercontent.com/jisong710/census/main/adult.csv"
+url="https://raw.githubusercontent.com/jisong710/spss-with-colab/main/Kuisioner%20Uji%20VR.csv"
 df = pd.read_csv(url)
 df.head()
 
